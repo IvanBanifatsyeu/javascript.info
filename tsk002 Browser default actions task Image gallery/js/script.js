@@ -10,3 +10,6 @@ thumbs.addEventListener("click", (event) => {
        largeImg.alt = target.title
 	}
 });
+
+
+
