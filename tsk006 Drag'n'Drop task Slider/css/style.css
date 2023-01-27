@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	height: 2000px;
+}
+
+.slider {
+	border-radius: 5px;
+	background-color: rgba(247, 2, 2, 0.2);
+	width: 310px;
+	height: 15px;
+	margin: 15px;
+}
+
+.thumb {
+	width: 10px;
+	height: 25px;
+	border-radius: 3px;
+	position: relative;
+	left: 10px;
+	top: -5px;
+	background-color: blue;
+	cursor: pointer;
+}
+
+.ff {
+	height: 30px;
+	width: 30px;
+	border: 1px solid red;
+}
